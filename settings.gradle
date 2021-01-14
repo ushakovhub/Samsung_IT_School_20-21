@@ -1,0 +1,4 @@
+rootProject.name = 'Samsung_IT_School_20-21'
+include '3.4_thread_sync_1'
+include '3.4_thread_sync_2'
+
