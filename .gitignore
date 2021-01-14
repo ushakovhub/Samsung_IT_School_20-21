@@ -31,6 +31,6 @@ build/
 out/
 
 #Idea
-.idea/
+/.idea/
 *.iml
 *.iws
